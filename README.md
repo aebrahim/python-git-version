@@ -1,6 +1,10 @@
 python-git-version
 ==================
 
+> :warning: This code is no longer maintained. Please instead consider using
+> https://github.com/python-versioneer/python-versioneer which serves a very
+> similar purpose in a similar manner.
+
 Generate [pep440](http://legacy.python.org/dev/peps/pep-0440/) compliant
 version strings from git for python projects
 
